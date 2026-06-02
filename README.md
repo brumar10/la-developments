@@ -1,6 +1,9 @@
 # la-developments
 Case study visualizing where developments took place in LA City.
 
+## Key takeaways
+
+
 ## Total new development, 2010-2022
 
 ![New Development Map](total_development.png)
@@ -12,3 +15,12 @@ Case study visualizing where developments took place in LA City.
 ## Buildings demolished, 2010-2022
 
 ![Buildings Demolished Map](bldgdemo.png)
+
+
+## Additional analysis and visualizations
+
+
+## Methodology
+
+
+## Conclusions and future research
