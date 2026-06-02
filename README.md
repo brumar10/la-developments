@@ -8,25 +8,22 @@ Case study visualizing and analyzing a permits dataset to assess development tre
 
 - There was a steady increase in permits issued between 2010 and 2019, but the number of permits issued dropped dramatically between 2019 and 2020 from a peak of 70,917 in 2019 to 51,935 in 2020.
 
-*insert total permits issued by year*
+![Permits Issued by Year](totalpermitsbyyeargraph.png)
 
 - In assessing the type of permit issued by year, building alterations and repairs are by far the most commonly issued type of permit in this analysis period. Followed by building additions and new buildings.
 
-*insert permit type by year*
+![Permit Types by Year](permittypesbyyeargraph.png)
 
 - Using the USE_CODE associated with each permit, we can assess the most common structures for which permits were issued. 
 
-*insert use codes by year*
+![Top Use Codes by Year](topusecodesbyyeargraph.png)
 
 - The Hollywood CPA received the most permits in the analysis period with 51,597, followed by the Wilshire CPA with 45,233 permits issued. However, if we focus on new building permits, then Southeast Los Angeles led the way over this period with 3,101, followed by Chatsworth - Porter Ranch at 2933. From 2010-2022, 41,208 permits for new buildings were issued citywide.
-
-
-
 - Wilshire was the leading CPA in terms of building demolition permits issued at 2,166. Southeast Los Angeles had the 2nd most demolitions with 2,019. From 2010-2022, 22,471 permits for building demolitions were issued citywide.
 - In terms of housing, there was a net 120,391 dwelling units and 22,360 ADUs permitted for citywide. There were three areas of concentration for additional dwelling units: Central City (Downtown), Wilshire, and Hollywood. The San Fernando Valley had high concentrations of new ADUs being permitted for with two of it's neighborhoods leading the way: Reseda - West Van Nuys & Canoga Park - Winnetka - Woodland Hills - West Hills.
 - The average time between a permit being submitted and a permit being issued was 108 days. Over time, the days to issue increased steadily, starting from a median 13 days in 2010, to a median 118 days in 2022.
 
-*insert days to issue by year*
+![Permits Issued by Year](medianprocessbyyeargraph.png)
 
 ## New buildings, 2010-2022
 
