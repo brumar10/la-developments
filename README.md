@@ -23,29 +23,29 @@ Case study visualizing and analyzing a permits dataset to assess development tre
 - In terms of housing, there was a net 120,391 dwelling units and 22,360 ADUs permitted for citywide. There were three areas of concentration for additional dwelling units: Central City (Downtown), Wilshire, and Hollywood. The San Fernando Valley had high concentrations of new ADUs being permitted for with two of it's neighborhoods leading the way: Reseda - West Van Nuys & Canoga Park - Winnetka - Woodland Hills - West Hills.
 - The average time between a permit being submitted and a permit being issued was 108 days. Over time, the days to issue increased steadily, starting from a median 13 days in 2010, to a median 118 days in 2022.
 
-![Permits Issued by Year](medianprocessbyyeargraph.png)
+![Processing Times by Year](medianprocessbyyeargraph.png)
 
 ## New buildings, 2010-2022
 
 ![New Buildings Map](newbldg.png)
 
-*insert new buildings type by CPA - timeseries* - this shows were stuff was built over time
+![New Buildings by CPA graph](bldgnewcpagraph.png)
 
-*insert new building type by use code - timseries* - this shows which types of buildings were built more or less throughout the years
+![New Buildings by Use Code graph](bldgnewusecodegraph.png)
 
 ## Buildings demolished, 2010-2022
 
 ![Buildings Demolished Map](bldgdemo.png)
 
-*insert buildings demolished by CPA - timseries*
+![Demolished Buildings by CPA graph](bldgdemocpagraph.png)
 
-*insert buildings demolished by use code - timeseries*
+![Demolished Buildings by Use Code graph](bldgdemousecodegraph.png)
 
 ## Housing and permitting
 
-*insert DU_CHANGED and ADU_CHANGED for CPAs*
+![Dwelling Units graph](dwellunitsgraph.png)
 
-*insert new building type submitted-issued dates by use code by year* - this shows the gap in submission and issuance of permits, could indicate the City's capacity/inclination toward construction
+![Process Time by Permit Type graph](processtimegraph.png)
 
 ## Methodology
 
