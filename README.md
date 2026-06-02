@@ -8,3 +8,7 @@ Case study visualizing where developments took place in LA City.
 ## New buildings, 2010-2022
 
 ![New Buildings Map](newbldg.png)
+
+## Buildings demolished, 2010-2022
+
+![Buildings Demolished Map](bldgdemo.png)
