@@ -17,7 +17,7 @@ Case study visualizing where developments took place in LA City.
 
 - The Hollywood CPA received the most permits in the analysis period with 51,597, followed by the Wilshire CPA with 45,233 permits issued. However, if we focus on new building permits, then Southeast Los Angeles led the way over this period with 3,101, followed by Chatsworth - Porter Ranch at 2933. From 2010-2022, 41,208 permits for new buildings were issued citywide.
 
-![New Development Map](total_development.png)
+
 
 - Wilshire was the leading CPA in terms of building demolition permits issued at 2,166. Southeast Los Angeles had the 2nd most demolitions with 2,019. From 2010-2022, 22,471 permits for building demolitions were issued citywide.
 - In terms of housing, there was a net 120,391 dwelling units and 22,360 ADUs permitted for citywide. There were three areas of concentration for additional dwelling units: Central City (Downtown), Wilshire, and Hollywood. The San Fernando Valley had high concentrations of new ADUs being permitted for with two of it's neighborhoods leading the way: Reseda - West Van Nuys & Canoga Park - Winnetka - Woodland Hills - West Hills.
