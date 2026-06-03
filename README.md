@@ -75,8 +75,8 @@ The permit dataset was first processed and analyzed in Python using Pandas and G
 
 ## Conclusions and future research
 
-## Conclusions
-
 Development activity in Los Angeles increased steadily throughout the 2010s before declining after 2019. New construction was concentrated in a limited number of Community Plan Areas, while demolition activity often occurred in the same locations, suggesting ongoing redevelopment. Housing production was driven primarily by single-family development, and permit processing times increased substantially over the study period.
 
-Future research could examine how development patterns relate to population density, zoning regulations, and access to public transportation. Integrating Census, zoning, and transit datasets would provide additional insight into why development occurred in certain areas and whether growth aligns with broader planning objectives. 
+Future research could investigate the factors that influence development activity, including interest rates, construction costs, labor availability, housing market conditions, zoning regulations, and access to public transportation, to better understand the drivers of new construction and demolition across Los Angeles.
+
+Future research could also examine how development patterns affect and respond to broader economic and demographic trends, including employment in major industries such as entertainment, population growth and decline, migration patterns, housing affordability, and population aging, to better understand the long-term relationship between urban development and regional change.
