@@ -1,7 +1,7 @@
 # la-developments
 Case study visualizing and analyzing a permits dataset to assess development trends in LA City.
 
-## Key takeaways
+## Summary and key takeaways
 - Between January 2010 and August 2022, 676,829 building and safety permits were issued by the City of Los Angeles.
 
 ![Permits Issued Map](total_permits_map.png)
